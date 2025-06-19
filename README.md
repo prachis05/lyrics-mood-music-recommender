@@ -11,5 +11,6 @@ A smart music recommendation system that uses NLP and sentiment analysis to sugg
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
+cmd src
 python preprocess.py    # Run once
 streamlit run main.py
